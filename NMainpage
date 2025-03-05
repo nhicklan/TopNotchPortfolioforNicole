@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <p>Showcasing my skills in Web Design, Development, and more!</p>
+    </header>
+    
+    <section class="projects">
+        <h2>My Projects</h2>
+        <div class="project">
+            <h3>Project One</h3>
+            <p>Project description goes here. You can include links to your work, images, and more.</p>
+        </div>
+        <div class="project">
+            <h3>Project Two</h3>
+            <p>Project description goes here. You can describe the technologies and skills used here.</p>
+        </div>
+    </section>
+    
+    <footer>
+        <p>Contact me: myemail@example.com</p>
+        <p>Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
